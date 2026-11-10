@@ -20,5 +20,5 @@ This assignment contains my TypeScript test, including 8 problem solutions and t
 ## Files
 
 - [TypeScript Solutions](./solutions.ts)
-- [Blog 1](./blog-name-1.md)
-- [Blog 2](./blog-name-2.md)
+- [Blog 1]([./blog-name-1.md])
+- [Blog 2]([./blog-name-2.md])
